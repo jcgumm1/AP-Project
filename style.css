@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+p {color: black;}
+h1 { font-weight: bold;}
+.josh{ font-family: Impact;
+}  
+    body {
+     background-color:#5F4C60;
+width:500px;
+margin:0 auto}
+img {border: 5px solid ;
+color:white;}
+p { font-family: "Oswald", Times, serif;}
+
+h1 {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   color: white;
+  }
+ 
+  h2 {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   color:white;
+  }
+
+
+  h3 {
+    color: white;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+   
+  }
+ 
+  img{height: 300px;
+width: 500px;}
+
+p{ font-size: 20px;}
+.josh2 { text-align: center;}
+p {margin: 10px;}
+a{font-family: "Oswald", Times, serif;}
+a{text-decoration: underline}
+a{color:Black}
+a:hover {  background-color: #37cff4;}
+a{font-size:20px}
+
+
+
+
+ a{
+  background-color: white;
+  border: 5px;
+  color:#5F4C60 ;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+ font-family:"Anton" ;
+  font-size: 16px;
+  border-radius: 5px;
+} 
+
+p{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ color: white;
+ font-size: 15px;
+ text-decoration: underline;
+}
+.sourcelink {font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ 
+ font-size: 12px;
+ text-decoration: underline;}
+
+
+
+
+ h4 {
+  border:0px;
+  padding: 0px;
+  color: white;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+ 
+}
